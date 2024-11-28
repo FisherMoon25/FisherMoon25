@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Younes!
 
 🌟 **21 | Machine Learning Enthusiast | Nature Lover**  
-🌍 Currently in **Stockholm, Sweden** | Exploring **Scandinavia** | From **France**  
+🌍 Currently in **Stockholm, Sweden** | Exploring **Scandinavia** | From **Morocco**  
 
 ---
 
@@ -14,27 +14,13 @@
 
 ## 🚀 About Me
 
-- 🌱 **Lifelong Learner:** Currently diving into **ML for Scientific Computing** (PINNs, cPINNs, etc.)
-- 💻 **Studies:** Computer Science & Applied Mathematics @ **Ensimag**  
+- 🌱 **Lifelong Learner**
+- 💻 **Studies:** Computer Science & Applied Mathematics @ **Ensimag x KTH**  
 - 🎓 **Research Interests:**  
   - Neural Operators & Scientific Computing  
-  - Generative AI and Traffic Compression  
-- 🧠 **Aspiration:** Dreaming of roles at **Spotify**, **Google**, or **Ubisoft** to combine creativity with ML magic!  
+  - Generative AI
+- 🧠 **Aspiration:** Combine creativity with ML magic!  
 
----
-
-## 💼 Experience & Projects
-
-- **📊 Data Science:**  
-  - Investigated revenue drivers for private dental clinic networks using spatial and financial data.  
-  - Unveiled trends that link service quality and catchment metrics to performance.  
-
-- **🤖 Research Internship:**  
-  - Built neural network models replacing numerical solvers for physical systems (Swift-Hohenberg/Kuramoto-Sivashinsky).  
-  - Explored **Fourier Neural Operators** for continuous domain learning.  
-
-- **📝 Academic Projects:**  
-  - Developing expertise in **Machine Learning for Networks** with cutting-edge methods.  
 
 ---
 
@@ -63,9 +49,8 @@
 
 ## 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:younes_essafouri@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/younes-essafouri)
 
 ---
 
